@@ -1,0 +1,22 @@
+{
+  "name": "moon-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathalienordstrom/moon-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathalienordstrom/moon-site/issues"
+  },
+  "homepage": "https://github.com/nathalienordstrom/moon-site#readme",
+  "dependencies": {
+    "@hubspot/cli": "^3.0.5"
+  }
+}
